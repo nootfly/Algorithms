@@ -7,3 +7,5 @@
 3. [500 Data Structures and Algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions?share=1&utm_medium=email&utm_source=hackernewsletter&utm_term=code)
 
 4. [Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+
+5. [Data Structures and Algorithms](http://lib.mdp.ac.id/ebook/Karya%20Umum/Dsa.pdf)
