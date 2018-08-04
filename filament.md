@@ -40,7 +40,5 @@
            else:
               min2 = min1
               min1 = dp[j]
-               
        return min1
  ```   
-  
