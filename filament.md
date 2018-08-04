@@ -31,8 +31,6 @@
          min1 = sys.maxint
          min2 = sys.maxint
          for j in range(k):
-           print dp
-           print "min1 = %d, min2 = %d, premin1= %d, premin2 = %d"  %    (min1, min2, premin1, premin2)
            if dp[j] != premin1 or premin1 == premin2:
               dp[j] = premin1 + costs[i][j]
            else:
