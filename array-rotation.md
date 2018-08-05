@@ -56,12 +56,10 @@ If GCD is 1, then elements will be moved within one set only, we just start with
 
   ```python
   def left_rotate(arr, d, n):
-    #print "arr = %s, d=%d, n=%d" % (str(arr), d, n)
     if d == 0 or d == n:
         return
-    if n - d == d: 
+    if n - d == d:
        swap(arr, 0, n - d, d)
-       #print arr
        return
 
     if d < n - d:
