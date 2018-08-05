@@ -42,3 +42,10 @@
               min1 = dp[j]
        return min1
  ```   
+
+
+Reference:
+
+[Benchmarking Block-Swapping Algorithms](http://www.drdobbs.com/parallel/benchmarking-block-swapping-algorithms/232900395?pgno=1)
+
+[Program for array rotation](https://www.geeksforgeeks.org/array-rotation/)
