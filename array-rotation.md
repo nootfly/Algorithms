@@ -68,4 +68,11 @@ If GCD is 1, then elements will be moved within one set only, we just start with
     else:
         swap(arr, 0, d, n - d)
         left_rotate(arr[n - d:], 2 * d - n , d)
-```
+  ```
+
+
+Reference:
+
+[Benchmarking Block-Swapping Algorithms](http://www.drdobbs.com/parallel/benchmarking-block-swapping-algorithms/232900395?pgno=1)
+
+[Program for array rotation](https://www.geeksforgeeks.org/array-rotation/)
