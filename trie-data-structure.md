@@ -1,6 +1,6 @@
 # Trie
 
-The word trie comes from retrieval. A trie (pronounced "try") is a tree-based data structure, which is used for efficient retrieval of a key in a large data-set of strings. Tries are also known as radix trees or prefix trees. FIND, INSERT AND DELETE operations are effient
+The word trie comes from retrieval. A trie (pronounced "try") is a tree-based data structure, which is used for efficient retrieval of a key in a large data-set of strings. Tries are also known as radix trees or prefix trees. Time complexity of a Trie data structure for insertion/deletion/search operation is just O(n) where n is key length.
 
 * Store Characters in nodes (not keys)
 
