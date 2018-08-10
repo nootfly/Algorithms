@@ -20,6 +20,7 @@ A matrix can be used to backtrack difference between the two sequences. The high
 
 
 ```python
+
    def lcs_length(x, y):
     m = len(x)
     n = len(y)
@@ -58,3 +59,10 @@ A matrix can be used to backtrack difference between the two sequences. The high
           t = lcs_length(x, y)
           print set(lcs(x, y, len(x), len(y), t))
 ```
+
+
+Reference:
+
+[Longest common subsequence problem](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
+
+[Longest Common Subsequence | Finding all LCS](http://www.techiedelight.com/longest-common-subsequence-finding-lcs/)
