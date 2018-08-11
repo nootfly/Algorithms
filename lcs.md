@@ -61,7 +61,7 @@ A matrix can be used to backtrack difference between the two sequences. The high
 ```
 
 
-Reference:
+References:
 
 [Longest common subsequence problem](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
 

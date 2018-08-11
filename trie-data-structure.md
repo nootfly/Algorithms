@@ -47,7 +47,7 @@ Trie can be used for autocomplete, spell checker, and prefix matching.
            return curr.isleaf 
   ```
 
-Reference:
+References:
 
 [Princeton Algorithms](https://algs4.cs.princeton.edu/lectures/52Tries.pdf)
 

@@ -32,6 +32,13 @@ The longest substrings are shown on diagonals, in red, in the table. For this ex
               if maxlen < lookup[i][j]:
                   maxlen = lookup[i][j]
                   endidx = i
-                  
+
     return string1[endidx - maxlen: endidx]
 ```
+
+
+References:
+
+[Longest common substring problem](https://en.wikipedia.org/wiki/Longest_common_substring_problem)
+
+[Longest Common Substring problem](http://www.techiedelight.com/longest-common-substring-problem/)

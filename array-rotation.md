@@ -71,7 +71,7 @@ If GCD is 1, then elements will be moved within one set only, we just start with
   ```
 
 
-Reference:
+References:
 
 [Benchmarking Block-Swapping Algorithms](http://www.drdobbs.com/parallel/benchmarking-block-swapping-algorithms/232900395?pgno=1)
 

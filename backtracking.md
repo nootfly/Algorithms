@@ -37,7 +37,7 @@
      return True
  ```     
 
- Reference:
+ References:
 
  [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
 
