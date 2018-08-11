@@ -42,3 +42,5 @@ References:
 [Longest common substring problem](https://en.wikipedia.org/wiki/Longest_common_substring_problem)
 
 [Longest Common Substring problem](http://www.techiedelight.com/longest-common-substring-problem/)
+
+[Longest common substring problem suffix array](https://www.youtube.com/watch?v=Ic80xQFWevc)
