@@ -4,7 +4,7 @@ The longest common substring problem is to find the longest string (or strings) 
 
 ## Time Complexity
 
-Dynamic programming approash costs `O(mn)`, and using suffix tree costs `O(m + n)`
+Dynamic programming approach costs `O(mn)`, and using suffix tree costs `O(m + n)`
 
 ## Dynamic programming
 
