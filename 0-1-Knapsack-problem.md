@@ -47,5 +47,8 @@ def knapsack_bottom_up(value_arr, weight_arr, capacity):
     return lookup[count][capacity]
   ```
 
+References:
 
+[Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
 
+[0-1 Knapsack problem](http://www.techiedelight.com/0-1-knapsack-problem/)
