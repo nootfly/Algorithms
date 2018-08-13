@@ -40,7 +40,7 @@ def generate_readme_str():
     sorted_files = sorted(all_files, key=lambda x:x.created, reverse=True)
     text = '# CodeMoments\n\r'
     for record in sorted_files:
-        temp = '[{}]({}) - {}\n\r'.format(record.name, record.filename.replace('./', ''), record.created_time())
+        temp = '[{}]({}) - {}\n\n'.format(record.name, record.filename.replace('./', ''), record.created_time())
         text += temp
     return text
             
