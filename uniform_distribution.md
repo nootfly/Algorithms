@@ -1,3 +1,5 @@
+# Uniform distribution
+
 * [Uniform distribution](https://en.wikipedia.org/wiki/Uniform_distribution_(continuous))
 
   > A discrete uniform probability distribution is one in which all elementary events in the sample space have an equal opportunity of occurring. As a result, for a finite sample space of size n, the probability of an elementary event occurring is 1/n.
@@ -10,7 +12,7 @@
   
   [Select a random number from stream, with O(1) space and O(n) time](https://www.geeksforgeeks.org/select-a-random-number-from-stream-with-o1-space/) 
 
-* [Segment Tree ](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
+* [Segment Tree](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
 
   Representation of Segment trees
   1. Leaf Nodes are the elements of the input array.

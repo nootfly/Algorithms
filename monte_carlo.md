@@ -1,4 +1,6 @@
-*  [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+# Monte Carlo method
+
+- [Monte Carlo method](#monte-carlo-method)
 
     >Monte Carlo methods vary, but tend to follow a particular pattern:
 

@@ -1,10 +1,10 @@
+# istio
+
 * [istio](https://cloud.google.com/istio/)
 
    Istio is an open source independent service mesh that provides the fundamentals you need to successfully run a distributed microservice architecture.
 
-
 * [Learning Math for Machine Learning](https://blog.ycombinator.com/learning-math-for-machine-learning/)
-
 
   Resources
   * Course: [Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/) by fast.ai
