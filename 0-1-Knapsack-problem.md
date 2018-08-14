@@ -52,3 +52,6 @@ References:
 [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
 
 [0-1 Knapsack problem](http://www.techiedelight.com/0-1-knapsack-problem/)
+# 
+
+* [How to cancel a delayed perform() call](https://www.hackingwithswift.com/example-code/system/how-to-cancel-a-delayed-perform-call)
