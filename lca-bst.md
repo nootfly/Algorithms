@@ -1,4 +1,4 @@
-# Find Lowest Common Ancestor (LCA) of Two Nodes in a Binary Tree
+# Find Lowest Common Ancestor (LCA) in a Binary Tree
 
 Given a binary tree and two nodes x and y in it, find lowest common ancestor (LCA) of x and y in it.
 
@@ -27,3 +27,8 @@ Given a binary tree and two nodes x and y in it, find lowest common ancestor (LC
     if root.val == big:
         return big
   ```
+
+
+References:
+
+[Find Lowest Common Ancestor (LCA) of Two Nodes in a Binary Tree](http://www.techiedelight.com/find-lowest-common-ancestor-lca-two-nodes-binary-tree/)

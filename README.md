@@ -1,5 +1,7 @@
 # CodeMoments
-[0-1 Knapsack problem](0-1-Knapsack-problem.md) - 12 August 2018
+[Find Lowest Common Ancestor (LCA) in a Binary Tree](lca-bst.md) - 14 August 2018
+
+[0-1 Knapsack problem](0-1-Knapsack-problem.md) - 12 August 2018
 
 [Resources for learning data structures and algorithms](data-structure-algorithms-resource.md) - 12 August 2018
 
