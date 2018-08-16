@@ -1,7 +1,9 @@
 # CodeMoments
-[Edit distance](edit-distance.md) - 15 August 2018
+[Bellman Ford Algorithm](Bellman-Ford-Algorithm.md) - 16 August 2018
 
-[Readings](2018-08-15.md) - 15 August 2018
+[Edit distance](edit-distance.md) - 15 August 2018
+
+[Experiences Using Micro Frontends at IKEA](2018-08-15.md) - 15 August 2018
 
 [Find Lowest Common Ancestor (LCA) in a Binary Tree](lca-bst.md) - 14 August 2018
 
