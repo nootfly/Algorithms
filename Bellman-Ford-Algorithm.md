@@ -27,6 +27,7 @@ O(|V| * |E|), where |V| and |E| are the number of vertices and edges respectivel
         
            if distances[source] + weight < distances[dest]:
                 distances[dest] = distances[source] + weight
+                parent[dest] = source
                 
     for i in range(V):
         for j in g.edges(i):
