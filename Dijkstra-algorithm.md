@@ -57,3 +57,10 @@ def print_path(parent, i):
     print_path(parent, parent[i])
     print(str(i), end=" ")
    ```
+
+
+References:
+
+[https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+
+[Single-Source Shortest Paths – Dijkstra’s Algorithm](http://www.techiedelight.com/single-source-shortest-paths-dijkstras-algorithm/)
