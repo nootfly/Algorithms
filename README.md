@@ -1,5 +1,9 @@
 # CodeMoments
-[Bellman Ford Algorithm](Bellman-Ford-Algorithm.md) - 16 August 2018
+[Dijkstra’s Algorithm](Dijkstra-algorithm.md) - 17 August 2018
+
+[Knuth–Morris–Pratt algorithm](Knuth–Morris–Pratt-algorithm.md) - 16 August 2018
+
+[Bellman Ford Algorithm](Bellman-Ford-Algorithm.md) - 16 August 2018
 
 [Edit distance](edit-distance.md) - 15 August 2018
 
