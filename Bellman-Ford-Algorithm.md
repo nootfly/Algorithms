@@ -14,12 +14,20 @@ O(|V| * |E|), where |V| and |E| are the number of vertices and edges respectivel
 ## Code
 
    ```python
+  def print_path(parent, i):
+    if i < 0:
+        return
+    print_path(parent, parent[i])
+    print(str(i), end= ' ')
+     
   def bellmanford(g, V, source):
     distances = [sys.maxsize for _ in range(V)]
     parent = [None for _ in range(V)]
+    parent[source] = -1
     distances[source] = 0
 
-    for i in range(V):
+    for _ in range(V - 1): 
+      for i in range(V):
         for j in g.edges(i):
            dest = j.dest
            source = j.source
@@ -27,8 +35,8 @@ O(|V| * |E|), where |V| and |E| are the number of vertices and edges respectivel
         
            if distances[source] + weight < distances[dest]:
                 distances[dest] = distances[source] + weight
-                parent[dest] = source
-                
+                parent[dest] = source 
+           
     for i in range(V):
         for j in g.edges(i):
            dest = j.dest
@@ -37,6 +45,12 @@ O(|V| * |E|), where |V| and |E| are the number of vertices and edges respectivel
         
            if distances[source] + weight < distances[dest]:
                 return True
+    
+    for i in range(V):
+        print("Distance of vertex " + str(i) + " from the source is " + str(distances[i]) + ". It's path is \n[", end="")
+        print_path(parent, i)
+        print("]")
+    
     return False
    ```
 
