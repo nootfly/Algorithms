@@ -20,15 +20,14 @@ O(|V| * |E|), where |V| and |E| are the number of vertices and edges respectivel
     print_path(parent, parent[i])
     print(str(i), end= ' ')
      
-  def bellmanford(g, V, source):
+  def bellmanford(edges, V, source):
     distances = [sys.maxsize for _ in range(V)]
     parent = [None for _ in range(V)]
     parent[source] = -1
     distances[source] = 0
 
     for _ in range(V - 1): 
-      for i in range(V):
-        for j in g.edges(i):
+        for j in edges:
            dest = j.dest
            source = j.source
            weight = j.weight
@@ -37,13 +36,12 @@ O(|V| * |E|), where |V| and |E| are the number of vertices and edges respectivel
                 distances[dest] = distances[source] + weight
                 parent[dest] = source 
            
-    for i in range(V):
-        for j in g.edges(i):
-           dest = j.dest
-           source = j.source
-           weight = j.weight
+    for j in edges:
+        dest = j.dest
+        source = j.source
+        weight = j.weight
         
-           if distances[source] + weight < distances[dest]:
+        if distances[source] + weight < distances[dest]:
                 return True
     
     for i in range(V):
