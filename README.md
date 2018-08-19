@@ -9,7 +9,7 @@
 
 [Edit distance](edit-distance.md) - 15 August 2018
 
-[Experiences Using Micro Frontends at IKEA](2018-08-15.md) - 15 August 2018
+[We’re terrible at planning our time. Here’s how to fix it](2018-08-15.md) - 15 August 2018
 
 [Find Lowest Common Ancestor (LCA) in a Binary Tree](lca-bst.md) - 14 August 2018
 
