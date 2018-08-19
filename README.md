@@ -1,5 +1,7 @@
 # CodeMoments
-[Dijkstra’s Algorithm](Dijkstra-algorithm.md) - 17 August 2018
+[Topological sorting](Topological-sorting.md) - 19 August 2018
+
+[Dijkstra’s Algorithm](Dijkstra-algorithm.md) - 17 August 2018
 
 [Knuth–Morris–Pratt algorithm](Knuth–Morris–Pratt-algorithm.md) - 16 August 2018
 
