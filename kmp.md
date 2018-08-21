@@ -65,3 +65,5 @@ O(m + n), `m` is the length of `P` and `n` is the length of `T`.
 [Knuth–Morris–Pratt algorithm](https://en.wikipedia.org/wiki/Knuth–Morris–Pratt_algorithm)
 
 [Searching for Patterns](https://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/)
+
+[The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
