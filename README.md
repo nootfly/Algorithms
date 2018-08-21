@@ -1,5 +1,15 @@
 # CodeMoments
-[Topological sorting](Topological-sorting.md) - 19 August 2018
+[Floyd–Warshall algorithm](Floyd-warshall.md) - 21 August 2018
+
+[Kahn’s Topological Sort Algorithm](Kahns-Topological-Sort-Algorithm.md) - 21 August 2018
+
+[Disjoint-Set Data Structure (Union Find Algorithm)](Union-Find-Algorithm.md) - 21 August 2018
+
+[Boyer–Moore majority vote algorithm](Boyer–Moore-majority-vote-algorithm.md) - 21 August 2018
+
+[Knuth-Morris-Pratt (KMP)](kmp.md) - 20 August 2018
+
+[Topological sorting](Topological-sorting.md) - 19 August 2018
 
 [Dijkstra’s Algorithm](Dijkstra-algorithm.md) - 17 August 2018
 
