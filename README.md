@@ -1,5 +1,7 @@
 # CodeMoments
-[Floyd–Warshall algorithm](Floyd-warshall.md) - 21 August 2018
+[Counting Sort](counting-sort.md) - 23 August 2018
+
+[Floyd–Warshall algorithm](Floyd-warshall.md) - 21 August 2018
 
 [Kahn’s Topological Sort Algorithm](Kahns-Topological-Sort-Algorithm.md) - 21 August 2018
 
