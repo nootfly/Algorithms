@@ -1,5 +1,7 @@
 # CodeMoments
-[Counting Sort](counting-sort.md) - 23 August 2018
+[Print all subarrays and subsequences](subarray-subsequence.md) - 23 August 2018
+
+[Counting Sort](counting-sort.md) - 23 August 2018
 
 [Floyd–Warshall algorithm](Floyd-warshall.md) - 21 August 2018
 
@@ -14,8 +16,6 @@
 [Topological sorting](Topological-sorting.md) - 19 August 2018
 
 [Dijkstra’s Algorithm](Dijkstra-algorithm.md) - 17 August 2018
-
-[Knuth–Morris–Pratt algorithm](Knuth–Morris–Pratt-algorithm.md) - 16 August 2018
 
 [Bellman Ford Algorithm](Bellman-Ford-Algorithm.md) - 16 August 2018
 
