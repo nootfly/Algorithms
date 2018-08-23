@@ -40,8 +40,8 @@ result:
   ```python
    import math
    def print_subsequences(arr):
-       all_bits = math.power(2, len(arr))
-       for i in range(1, all_bits):
+       all_bits = math.pow(2, len(arr))
+       for i in range(1, int(all_bits)):
           temp = []
           for j in range(len(arr)):
             if (i & ( 1 << j)):
