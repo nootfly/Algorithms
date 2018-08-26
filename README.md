@@ -1,5 +1,7 @@
 # CodeMoments
-[Median-Finding Algorithm](Median-Finding-Algorithm.md) - 26 August 2018
+[Find and return the no-duplicated integer](find-non-duplicated-integer.md) - 26 August 2018
+
+[Median-Finding Algorithm](Median-Finding-Algorithm.md) - 26 August 2018
 
 [Beyond Interactive: Notebook Innovation at Netflix](2018-8-25.md) - 25 August 2018
 
