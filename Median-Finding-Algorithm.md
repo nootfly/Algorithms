@@ -64,3 +64,7 @@ def median_of_medians(A, i):
 ## Reference
 
 [Median-Finding Algorithm](https://brilliant.org/wiki/median-finding-algorithm/)
+
+[My Favorite Algorithm: Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
+
+[Selection algorithm](https://en.wikipedia.org/wiki/Selection_algorithm)
