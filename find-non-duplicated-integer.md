@@ -10,6 +10,19 @@ Do this in O(N) time and O(1) space.
 
 ## Solution
 
+Basically, it makes use of the fact that x^x = 0. So all paired elements get XOR'd and vanish leaving the lonely element.  
+ones - At any point of time, this variable holds XOR of all the elements which have 
+appeared "only" once. 
+twos - At any point of time, this variable holds XOR of all the elements which have 
+appeared "only" twice. 
+1. A new number appears - It gets XOR'd to the variable "ones". 
+2. A number gets repeated(appears twice) - It is removed from "ones" and XOR'd to the 
+variable "twice". 
+3. A number appears for the third time - It gets removed from both "ones" and "twice". 
+
+
+## Code
+
 ```python
 def find_unique(arr):
     ones = 0
@@ -26,5 +39,7 @@ def find_unique(arr):
 ```
 
 ## Reference
+
+[Google Interview Question for Software Engineer / Developers](https://www.careercup.com/question?id=7902674)
 
 [Find the element that appears once](https://www.geeksforgeeks.org/find-the-element-that-appears-once/)
