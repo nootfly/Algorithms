@@ -22,7 +22,7 @@ Sort each list `A1` and `A2`
 
 Then, get the medians out of each list and put them in a list of medians `M = [76, 60]`
 
-sort this: `M = [60, 76`
+sort this: `M = [60, 76]`
 
 Pick the median from that list — since the length of the list is 2, and we determine the index of the median by the length of the list divided by two, we get: 2/2=1, the index of the median is 1 and `M[1] = 76`.
 
