@@ -1,5 +1,7 @@
 # CodeMoments
-[Beyond Interactive: Notebook Innovation at Netflix](2018-8-25.md) - 25 August 2018
+[Median-Finding Algorithm](Median-Finding-Algorithm.md) - 26 August 2018
+
+[Beyond Interactive: Notebook Innovation at Netflix](2018-8-25.md) - 25 August 2018
 
 [Print all subarrays and subsequences](subarray-subsequence.md) - 23 August 2018
 
