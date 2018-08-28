@@ -1,5 +1,7 @@
 # CodeMoments
-[Find and return the no-duplicated integer](find-non-duplicated-integer.md) - 26 August 2018
+[Subset Sum Problem](subset-sum.md) - 28 August 2018
+
+[Find and return the no-duplicated integer](find-non-duplicated-integer.md) - 26 August 2018
 
 [Median-Finding Algorithm](Median-Finding-Algorithm.md) - 26 August 2018
 
