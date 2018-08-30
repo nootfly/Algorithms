@@ -1,5 +1,7 @@
 # CodeMoments
-[Bit Hacks](bit-hacks.md) - 28 August 2018
+[Longest palindromic substring](longest_palindromic.md) - 30 August 2018
+
+[Bit Hacks](bit-hacks.md) - 28 August 2018
 
 [Subset Sum Problem](subset-sum.md) - 28 August 2018
 
