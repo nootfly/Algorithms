@@ -2,9 +2,6 @@
 
 Given a string, find maximum-length contiguous substring of it that is also a palindrome. For example, the longest palindromic substring of "bananas" is "anana" and longest palindromic substring of "abdcbcdbdcbbc" is "bdcbcdb".
 
-## Solution
-
-
 ## Simple Solution
 
 ```python

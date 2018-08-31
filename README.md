@@ -1,5 +1,7 @@
 # CodeMoments
-[Longest palindromic substring](longest_palindromic.md) - 30 August 2018
+[Reverse a linked List](Reverse-a-linked-List.md) - 30 August 2018
+
+[Longest palindromic substring](longest_palindromic.md) - 30 August 2018
 
 [Bit Hacks](bit-hacks.md) - 28 August 2018
 
