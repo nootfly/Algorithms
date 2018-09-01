@@ -1,5 +1,7 @@
 # CodeMoments
-[Reverse a linked List](Reverse-a-linked-List.md) - 30 August 2018
+[Daily Coding 47](max_profit47.md) - 01 September 2018
+
+[Reverse a linked List](Reverse-a-linked-List.md) - 30 August 2018
 
 [Longest palindromic substring](longest_palindromic.md) - 30 August 2018
 
