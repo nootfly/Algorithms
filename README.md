@@ -1,5 +1,9 @@
 # CodeMoments
-[Daily Coding 47](max_profit47.md) - 01 September 2018
+[Bottom-up Merge Sort](merge-sort-bottom-up.md) - 02 September 2018
+
+[Timsort](tim-sort.md) - 01 September 2018
+
+[Daily Coding Problem 47](max_profit47.md) - 01 September 2018
 
 [Reverse a linked List](Reverse-a-linked-List.md) - 30 August 2018
 
