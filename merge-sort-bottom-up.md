@@ -40,3 +40,7 @@ def merge_sort(arr):
         i += 2 * m
       m = 2 * m
 ```
+
+## References
+
+[Iterative Merge Sort Algorithm](http://www.techiedelight.com/merge-sort/)
