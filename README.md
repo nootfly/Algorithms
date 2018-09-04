@@ -1,5 +1,7 @@
 # CodeMoments
-[Find maximum product subarray in a given array](max_subarray_prod.md) - 03 September 2018
+[Fisher–Yates shuffle](Fisher–Yates-shufflel.md) - 04 September 2018
+
+[Find maximum product subarray in a given array](max_subarray_prod.md) - 03 September 2018
 
 [Bottom-up Merge Sort](merge-sort-bottom-up.md) - 02 September 2018
 
