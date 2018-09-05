@@ -1,5 +1,9 @@
 # CodeMoments
-[Fisher–Yates shuffle](Fisher–Yates-shufflel.md) - 04 September 2018
+[LRU](images/2018/lru.md) - 05 September 2018
+
+[* [A tour of JavaScript timers on the web](https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/)](images/2018/2018-09-04.md) - 04 September 2018
+
+[Fisher–Yates shuffle](Fisher–Yates-shufflel.md) - 04 September 2018
 
 [Find maximum product subarray in a given array](max_subarray_prod.md) - 03 September 2018
 
