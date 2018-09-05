@@ -1,7 +1,7 @@
 # CodeMoments
 [LRU](images/2018/lru.md) - 05 September 2018
 
-[* [A tour of JavaScript timers on the web](https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/)](images/2018/2018-09-04.md) - 04 September 2018
+[A tour of JavaScript timers on the web](images/2018/2018-09-04.md) - 04 September 2018
 
 [Fisher–Yates shuffle](Fisher–Yates-shufflel.md) - 04 September 2018
 
