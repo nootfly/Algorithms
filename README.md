@@ -1,5 +1,7 @@
 # CodeMoments
-[LRU](images/2018/lru.md) - 05 September 2018
+[Sudoku](2018/sudoku.md) - 07 September 2018
+
+[LRU](images/2018/lru.md) - 05 September 2018
 
 [Best Practices For Mobile Form Design](images/2018/2018-09-04.md) - 04 September 2018
 
