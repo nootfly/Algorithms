@@ -13,7 +13,7 @@ A URL character can be one of the following
 
 There are total 26 + 26 + 10 = 62 possible characters.
 
-Bijective Function is needed, which means This is necessary so that you can find a inverse function `g('abc') = 123` for your `f(123) = 'abc'` function. This means:
+[Bijective Function](https://en.wikipedia.org/wiki/Bijection) is needed, which means This is necessary so that you can find a inverse function `g('abc') = 123` for your `f(123) = 'abc'` function. This means:
 
 * There must be no x1, x2 (with x1 ≠ x2) that will make f(x1) = f(x2),
 * and for every y you must be able to find an x so that f(x) = y.
