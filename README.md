@@ -1,5 +1,9 @@
 # CodeMoments
-[Find longest substring with k unique characters in a given string](2018/longest-substring-k-unique.md) - 09 September 2018
+[All permutations of a given string](2018/string-permutation.md) - 11 September 2018
+
+[System Design Resources](2018/system-design/system-design.md) - 11 September 2018
+
+[Find longest substring with k unique characters in a given string](2018/longest-substring-k-unique.md) - 09 September 2018
 
 [Design a URL shortener](2018/system-design/shorturl.md) - 08 September 2018
 
