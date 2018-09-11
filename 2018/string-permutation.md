@@ -37,7 +37,7 @@ def permutation(lst):
     for i in range(len(lst)):
        m = lst[i]
        remLst = lst[:i] + lst[i+1:]
-       for p in permutation4(remLst):
+       for p in permutation(remLst):
            ret.append(m + p)
     return ret
 ```
