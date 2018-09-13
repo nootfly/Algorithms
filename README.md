@@ -1,5 +1,7 @@
 # CodeMoments
-[Staircase with N steps](2018/staircase.md) - 12 September 2018
+[The Tower Hopper problem](2018/tower-hopper.md) - 13 September 2018
+
+[Staircase with N steps](2018/staircase.md) - 12 September 2018
 
 [All permutations of a given string](2018/string-permutation.md) - 11 September 2018
 
