@@ -7,3 +7,5 @@
 * [Five Considerations For Large Scale Systems](https://sites.google.com/site/craigandera/craigs-stuff/scalability-considerations/five-considerations-for-large-scale-systems)
 
 * [Distributed Systems and Parallel Computing](http://research.google.com/pubs/DistributedSystemsandParallelComputing.html)
+
+* [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
