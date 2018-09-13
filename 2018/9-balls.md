@@ -2,7 +2,7 @@
 
 ## Nine balls
 
-   You have nine balls. Eight are of the weight, and one is heavier. You are given a balance which tells you only whether the left side or the right side heavier. Find the heavy ball in just two uses of the scale.
+   You have nine balls. Eight are of the same weight, and one is heavier. You are given a balance which tells you only whether the left side or the right side heavier. Find the heavy ball in just two uses of the scale.
 
    `hint: divide the balls into sets of three items each`
 
