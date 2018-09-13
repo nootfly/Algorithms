@@ -24,7 +24,7 @@ def fetch_files(dirname):
     global all_files
     for root, _, files in os.walk(dirname):
        for file in files:
-          if file.endswith(".md"):
+          if file.endswith(".md") and not file.endswith('README.md'):
              filename = os.path.join(root, file)
              stat = os.stat(filename)
              created = None

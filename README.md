@@ -97,5 +97,3 @@
 
 [Algorithms Study resources](resources/algorithms-resources.md) - 28 July 2018
 
-[CodeMoments](README.md) - 28 July 2018
-
