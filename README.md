@@ -1,5 +1,7 @@
 # CodeMoments
-[The Tower Hopper problem](2018/tower-hopper.md) - 13 September 2018
+[Two Puzzles](2018/9-balls.md) - 14 September 2018
+
+[The Tower Hopper problem](2018/tower-hopper.md) - 13 September 2018
 
 [Staircase with N steps](2018/staircase.md) - 12 September 2018
 
