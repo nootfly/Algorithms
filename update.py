@@ -47,7 +47,8 @@ def generate_readme_str():
 
 if __name__ == "__main__":
     fetch_files('.')
-    print(generate_readme_str())
+    #print(generate_readme_str())
     with open('README.md', 'w') as f:
           f.write(generate_readme_str())
+    print('Done!')
               

@@ -1,5 +1,7 @@
 # CodeMoments
-[Wiggle Sort](2018/wiggle-sort.md) - 15 September 2018
+[4 Sum Problem](2018/four-sum.md) - 17 September 2018
+
+[Wiggle Sort](2018/wiggle-sort.md) - 15 September 2018
 
 [Two Puzzles](2018/9-balls.md) - 14 September 2018
 
