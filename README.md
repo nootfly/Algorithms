@@ -1,5 +1,7 @@
 # CodeMoments
-[4 Sum Problem](2018/four-sum.md) - 17 September 2018
+[Toss biased](2018/unbiased-fun.md) - 20 September 2018
+
+[4 Sum Problem](2018/four-sum.md) - 17 September 2018
 
 [Wiggle Sort](2018/wiggle-sort.md) - 15 September 2018
 
