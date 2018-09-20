@@ -7,11 +7,16 @@ Assume you have access to a function toss_biased() which returns 0 or 1 with a p
 The observation is that if you have a biased coin that comes up heads with probability p, and if you flip the coin twice, then:
 
 The probability that it comes up heads twice is p * p
+
 The probability that it comes up heads first and tails second is p(1-p)
+
 The probability that it comes up tails first ands heads second is (1-p)p
+
 The probability that it comes up tails twice is (1-p) * (1-p)
 
-According to Bayes' theorem,  P(first coin is heads | both coins are different) = P(both coins are different | first coin is heads) P(first coin is heads) / P(both coins are different), P(first coin is heads | both coins are different) = p (1-p) / (2p(1-p)) = 1 / 2.
+According to Bayes' theorem,
+
+P(first coin is heads | both coins are different) = P(both coins are different | first coin is heads) P(first coin is heads) / P(both coins are different), P(first coin is heads | both coins are different) = p (1-p) / (2p(1-p)) = 1 / 2.
 
 ## Code
 
