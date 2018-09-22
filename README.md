@@ -1,5 +1,7 @@
 # CodeMoments
-[LinkedList partition](2018/linked-list-partition.md) - 21 September 2018
+[Evolving mobile architecture at Reddit](2018/evolving-mobile-architecture.md) - 22 September 2018
+
+[LinkedList partition](2018/linked-list-partition.md) - 21 September 2018
 
 [Toss biased](2018/unbiased-fun.md) - 20 September 2018
 
