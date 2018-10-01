@@ -32,9 +32,10 @@ def fetch_files(dirname):
                 created = stat.st_birthtime
              except AttributeError:
                 created = stat.st_mtime
-             name = open(filename).readline().rstrip().replace('# ', '')   
-             record = Record(filename, name, created)
-             all_files.append(record) 
+             name = open(filename).readline().rstrip().replace('# ', '')
+             if name != '':  
+               record = Record(filename, name, created)
+               all_files.append(record) 
 
 def generate_readme_str():
     sorted_files = sorted(all_files, key=lambda x:x.created, reverse=True)
