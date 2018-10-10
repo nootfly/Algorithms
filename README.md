@@ -1,5 +1,7 @@
 # CodeMoments
-[Patience sorting](2018/patientce-sorting.md) - 04 October 2018
+[Fundamentals of display technologies for Augmented and Virtual Reality](2018/2018-10-10.md) - 10 October 2018
+
+[Patience sorting](2018/patientce-sorting.md) - 04 October 2018
 
 [Longest Increasing Subsequence](2018/lis.md) - 01 October 2018
 
