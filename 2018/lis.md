@@ -27,7 +27,6 @@ def ceil_index(arr, l, r, key):
             l = m
     return r
 def find_longest_sub(arr, size):
-    print("tail_table")
     tail_table = [0 for i in range(size + 1)]
     tail_table[0] = arr[0]
     len = 1
