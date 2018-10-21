@@ -1,5 +1,7 @@
 # CodeMoments
-[Binary Tree Maximum Path Sum](2018/binary-tree-max-path-sum.md) - 18 October 2018
+[Building Enterprise Software on LinkedIn's Consumer Stack](2018/2018-10-21.md) - 21 October 2018
+
+[Binary Tree Maximum Path Sum](2018/binary-tree-max-path-sum.md) - 18 October 2018
 
 [Largest BST in a Binary Tree](2018/largest_bst.md) - 17 October 2018
 
