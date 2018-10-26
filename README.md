@@ -1,5 +1,7 @@
 # CodeMoments
-[Minimum steps needed to cover a sequence of points on an infinite grid](2018/minmum-steps-cover.md) - 25 October 2018
+[Find next greater number with same set of digits](2018/find-next-greater-number.md) - 26 October 2018
+
+[Minimum steps needed to cover a sequence of points on an infinite grid](2018/minmum-steps-cover.md) - 25 October 2018
 
 [Building Enterprise Software on LinkedIn's Consumer Stack](2018/2018-10-21.md) - 21 October 2018
 
