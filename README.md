@@ -1,5 +1,7 @@
 # CodeMoments
-[Find next greater number with same set of digits](2018/find-next-greater-number.md) - 26 October 2018
+[Two Prime Sum](2018/two-primes.md) - 29 October 2018
+
+[Find next greater number with same set of digits](2018/find-next-greater-number.md) - 26 October 2018
 
 [Minimum steps needed to cover a sequence of points on an infinite grid](2018/minmum-steps-cover.md) - 25 October 2018
 
