@@ -1,5 +1,7 @@
 # CodeMoments
-[Two Prime Sum](2018/two-primes.md) - 29 October 2018
+[Applying Customer Feedback: How NLP & Deep Learning Improve Uber’s Maps](2018/2018-10-30.md) - 30 October 2018
+
+[Two Prime Sum](2018/two-primes.md) - 29 October 2018
 
 [Find next greater number with same set of digits](2018/find-next-greater-number.md) - 26 October 2018
 
