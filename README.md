@@ -1,5 +1,7 @@
 # CodeMoments
-[Tower of Hanoi](2018/tower-of-hanoi.md) - 22 November 2018
+[SCAR: 1-click static website deployment on AWS](2019-06-06.md) - 23 May 2019
+
+[Tower of Hanoi](2018/tower-of-hanoi.md) - 22 November 2018
 
 [Applying Customer Feedback: How NLP & Deep Learning Improve Uber’s Maps](2018/2018-10-30.md) - 31 October 2018
 
