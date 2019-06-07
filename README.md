@@ -1,5 +1,5 @@
 # CodeMoments
-[SCAR: 1-click static website deployment on AWS](2019-06-06.md) - 23 May 2019
+[60 Extensions to Supercharge Visual Studio Code](2019-06-06.md) - 23 May 2019
 
 [Tower of Hanoi](2018/tower-of-hanoi.md) - 22 November 2018
 
